@@ -4,7 +4,7 @@
 
 I am a Software Engineer from Italy
 
-- :telescope: I’m working as a Senior Software Engineer at Bocconi University.
+- :computer: I’m working as a Senior Software Engineer at Bocconi University.
 
 - :guitar: I'm also a bass player and metalhead! :metal:
 
@@ -34,3 +34,4 @@ I am a Software Engineer from Italy
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santoclemenzi&theme=dark&background=45%2C171D06%2C0B310D)](https://git.io/streak-stats)
+
