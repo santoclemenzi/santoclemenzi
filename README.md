@@ -34,5 +34,5 @@ I am a Software Engineer from Italy
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=santoclemenzi&theme=dark&background=45%2C171D06%2C0B310D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santoclemenzi&theme=dark)](https://git.io/streak-stats)
 
