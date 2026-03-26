@@ -14,7 +14,7 @@ I am a Software Engineer from Italy
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![Skills](https://skills.syvixor.com/api/icons?i=oracle,mysql,python,flask,fastapi,sqlite,html,bootstrap,wordpress,raspberrypi,linux,windows,vscode,aws)](https://github.com/syvixor/skills-icons)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,sqlite,python,flask,fastapi,html,bootstrap,wordpress,raspberrypi,linux,windows,vscode,aws&titles=true)
 
 ---
 
