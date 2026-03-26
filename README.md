@@ -13,7 +13,7 @@ I am a Software Engineer from Italy
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Skills and Tools :
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,sqlite,python,flask,fastapi,html,bootstrap,wordpress,raspberrypi,linux,windows,vscode,aws&titles=true)
 
 ---
